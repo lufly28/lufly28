@@ -1,8 +1,6 @@
 <h1 align="center">Hola! Soy Florencia</h1>
 <h3 align="center">Desarrolladora full-stack argentina con pasión por crear soluciones digitales. Me encanta aprender nuevas tecnologías y aplicarlas a proyectos prácticos. Actualmente estoy enfocada en mejorar mis habilidades</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lufly28&label=Profile%20views&color=0e75b6&style=flat" alt="lufly28" /> </p>
-
 - 🔭 Actualmente estoy trabajando en [Pizza Mia Page](https://github.com/lufly28/pagepizzamia)
 
 - 👨 💻 Un poco de mis actividades [https://lufly28.github.io/cv/]( https://lufly28.github.io/cv/)

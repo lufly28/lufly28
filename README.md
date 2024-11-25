@@ -1,10 +1,7 @@
-<h1 align="center">Hola! Soy Flor</h1>
-<h3 align="center">Desarrolladora full-stack argentina con pasión por crear soluciones digitales. Me encanta aprender nuevas tecnologías y aplicarlas a proyectos prácticos. Actualmente estoy enfocada en mejorar mis habilidades</h3>
-
-- 🔭 Actualmente estoy trabajando en [Pizza Mia Page](https://github.com/lufly28/pagepizzamia)
+<h1 align="center">👋 ¡Hola! Soy Flor </h1>
+<h3 align="center">👾 Desarrolladora full-stack argentina con pasión por crear soluciones digitales. Me encanta aprender nuevas tecnologías y aplicarlas a proyectos prácticos. Actualmente estoy enfocada en mejorar mis habilidades</h3>
 
 - 👨 💻 Un poco de mis actividades [https://lufly28.github.io/cv/]( https://lufly28.github.io/cv/)
-
 - 📫 Como buscarme **florenciagira2007@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
